@@ -8,10 +8,10 @@
 
 <p align="left">
   <ul>
-    <li>🌱 I’m currently learning React.js, Node.js, Express.js, MongoDB</li>
-    <li>👯 I’m looking to collaborate on full stack projects</li>
-    <li>💬 Ask me about Frontend Development, Backend Development, Database</li>
-    <li>📫 How to reach me <a href="mailto:priyansh3112004@gmail.com">priyansh3112004@gmail.com</a></li>
+    <li>🌱 I’m currently learning React.js, Node.js, Express.js, MongoDB</li><br>
+    <li>👯 I’m looking to collaborate on full stack projects</li><br>
+    <li>💬 Ask me about Frontend Development, Backend Development, Database</li><br>
+    <li>📫 How to reach me <a href="mailto:priyansh3112004@gmail.com">priyansh3112004@gmail.com</a></li><br>
     <li>⚡ Fun fact I'm creative, enthusiastic and a good learner</li>
   </ul>
 </p>
