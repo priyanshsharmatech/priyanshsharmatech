@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
+- 💬 Ask me about **Frontend Development, Backend Development, Database**
+
 - 📫 How to reach me **priyansh3112004@gmail.com**
 
 - ⚡ Fun fact **I'm creative, enthusiastic and a good learner**
