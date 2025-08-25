@@ -6,8 +6,15 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React.js, Node.js, Express.js, MongoDB<br><br>👯 I’m looking to collaborate on full stack projects<br><br>💬 Ask me about Frontend Development, Backend Development, Database<br><br>📫 How to reach me <a href="mailto:priyansh3112004@gmail.com">priyansh3112004@gmail.com</a>
-<br><br>⚡ Fun fact I'm creative, enthusiastic and a good learner</p>
+<p align="left">
+  <ul>
+    <li>🌱 I’m currently learning React.js, Node.js, Express.js, MongoDB</li>
+    <li>👯 I’m looking to collaborate on full stack projects</li>
+    <li>💬 Ask me about Frontend Development, Backend Development, Database</li>
+    <li>📫 How to reach me <a href="mailto:priyansh3112004@gmail.com">priyansh3112004@gmail.com</a></li>
+    <li>⚡ Fun fact I'm creative, enthusiastic and a good learner</li>
+  </ul>
+</p>
 
 ###
 
