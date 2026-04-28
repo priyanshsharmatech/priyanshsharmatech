@@ -29,34 +29,33 @@
 </div>
 
 ###
-<h2 align="left">🚀 Projects:</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Kreator - AI Blogging Platform</h4>
-      <p>A full-stack Next.js app with AI content creation, Clerk auth, and Convex DB.</p>
-      <a href="https://your-live-link.com">🔗 Live Demo</a> | 
-      <a href="https://github.com/yourusername/repo">📂 Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>VartaLogue</h4>
-      <p>MERN stack blogging platform featuring secure authentication and post management.</p>
-      <a href="https://your-live-link.com">🔗 Live Demo</a> | 
-      <a href="https://github.com/yourusername/repo">📂 Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>AI Invoice Generator</h4>
-      <p>Efficient invoice management tool built with the MERN stack.</p>
-      <a href="https://your-live-link.com">🔗 Live Demo</a> | 
-      <a href="https://github.com/yourusername/repo">📂 Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
-</table>
+### ⚡ Kreator — AI Blogging Platform
+> A full-stack Next.js application featuring AI content generation, Clerk authentication, and high-performance data fetching with Convex.
+<p align="left">
+  <a href="https://your-live-link.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FF5733?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://github.com/your-username/repo" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 📝 VartaLogue — MERN Stack Blog
+> A robust blogging ecosystem with secure JWT authentication, dynamic post management, and a responsive community interface.
+<p align="left">
+  <a href="https://your-live-link.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FF5733?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://github.com/your-username/repo" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 AI Invoice Generator
+> Streamlined financial tool built with the MERN stack to automate invoice creation and management for small businesses.
+<p align="left">
+  <a href="https://your-live-link.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FF5733?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://github.com/your-username/repo" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 ###
 
 <h2 align="left">Languages and Tools:</h2>
